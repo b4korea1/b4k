@@ -24,6 +24,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.white-icon {
+  filter: brightness(0) invert(1);
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
